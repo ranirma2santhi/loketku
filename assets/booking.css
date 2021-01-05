@@ -1,0 +1,24 @@
+body{
+	background-image:url(img/nusa.jpg);
+	background-position:center center;
+	background-size:1550px 790px;
+}
+
+.warna{
+	font-size:13px;
+	width:74%;
+	background-color: whitesmoke;
+	border-radius:5px;
+	height:auto;
+	margin-top:7%;
+	margin-left:12%;
+	padding:40px;
+}
+
+input::placeholder{
+	font-size:13px;
+}
+
+.form-control{
+	font-size:14px;
+}

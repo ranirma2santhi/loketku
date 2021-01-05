@@ -1,0 +1,17 @@
+.warna{
+	width:110%;
+	background-color:white;
+	box-shadow: 0px 0px 20px 6px;
+	border-radius:5px;
+	height:auto;
+	margin-top:5%;
+	margin-left:-4%;
+	padding:40px;
+}
+
+body{
+	background-image:url(img/bgtiket.jpg);
+	background-position:center 6px;
+	background-size:1520px 750px;
+	background-attachment: fixed;
+}

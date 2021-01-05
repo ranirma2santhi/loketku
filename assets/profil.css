@@ -1,0 +1,26 @@
+body{
+	background-color: darkcyan;
+	background-position:center center;
+	background-size:1550px 790px;
+}
+
+.warna{
+	font-size:13px;
+    window: 40%;
+	background-color:white;
+	box-shadow: 0px 0px 20px 6px;
+	border-radius:5px;
+	height:auto;
+	max-resolution: top 30%;
+    max-resolution: left 50%;
+    max-resolution: bottom 30%;
+	padding:40px;
+}
+
+input::placeholder{
+	font-size:13px;
+}
+
+.form-control{
+	font-size:13px;
+}

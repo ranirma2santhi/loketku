@@ -1,0 +1,30 @@
+body{
+	background-image:url(img/4.jpg);
+	background-position:center 6px;
+	background-size:1550px 800px;
+}
+
+
+.warna{
+	font-size:13px;
+	width:50%;
+	background-color:white;
+	box-shadow: 0px 0px 20px 6px;
+	border-radius:5px;
+	height:auto;
+	margin-top:200px;
+	margin-left:26%;
+	padding:40px;
+}
+
+input::placeholder{
+	font-size:13px;
+}
+
+.form-control{
+	font-size:13px;
+}
+
+.input-group-text{
+	font-size:13px;
+}
